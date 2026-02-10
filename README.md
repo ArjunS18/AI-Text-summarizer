@@ -37,36 +37,36 @@ Instead of hardcoding prompts in the API layer, prompts are dynamically generate
 
 1. Concise Summary
 
-Instruction:
-Summarize in 3–5 clear sentences
-Focus on core idea
-Remove redundancy
+   Instruction:
+   Summarize in 3–5 clear sentences,
+   Focus on core idea,
+   Remove redundancy
 
-Use Case:
-Quick overview
-Executive snapshot
+   Use Case:
+   Quick overview,
+   Executive snapshot
 
 2. Detailed Summary
 
-Instruction:
-Include key explanations
-Preserve important insights
-Maintain logical flow
+   Instruction:
+   Include key explanations,
+   Preserve important insights,
+   Maintain logical flow
 
-Use Case:
-Technical documents
-Study material summaries
+   Use Case:
+   Technical documents,
+   Study material summaries
 
 3. Bullet Point Summary
 
-Instruction:
-Structured bullet points
-Clear separation of ideas
-Compact formatting
+   Instruction:
+   Structured bullet points,
+   Clear separation of ideas,
+   Compact formatting
 
-Use Case:
-Presentation preparation
-Study notes
+   Use Case:
+   Presentation preparation,
+   Study notes
 
 **Validation and Error Handling**
 
